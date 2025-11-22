@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer · UI/UX · Diseñadora de interfaces modernas y funcionales</h3>
 
 <p align="center">
-  <img src="https://portafolio-idpq.onrender.com/assets/erlogo.webp" width="130" alt="ER Logo"/>
+  <img src="ER.png/" width="130" >
 </p>
 
 ---
